@@ -4,7 +4,7 @@ Este repositorio contiene la documentación detallada y diagramas de arquitectur
 
 ---
 
-## 📌 Índice de Contenidos
+## Índice de Contenidos
 
 | Módulo | Archivo | Cobertura y Servicios Clave |
 | :--- | :--- | :--- |
