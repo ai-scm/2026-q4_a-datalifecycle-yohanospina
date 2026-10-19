@@ -4,7 +4,7 @@ Este documento analiza los conceptos fundamentales de la analítica de datos en 
 
 ---
 
-## Mapa Mental (Mermaid)
+## Mapa Mental
 
 ```mermaid
 mindmap
