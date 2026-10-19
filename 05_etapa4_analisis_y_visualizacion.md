@@ -4,7 +4,7 @@ Este documento aborda la cuarta etapa del ciclo de vida de los datos: **análisi
 
 ---
 
-## Mapa Mental (Mermaid)
+## Mapa Mental
 
 ```mermaid
 mindmap
