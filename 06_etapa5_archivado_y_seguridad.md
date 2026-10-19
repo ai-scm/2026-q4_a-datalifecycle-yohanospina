@@ -4,7 +4,7 @@ Este documento aborda la quinta y última etapa del ciclo de vida de los datos (
 
 ---
 
-## Mapa Mental (Mermaid)
+## Mapa Mental
 
 ```mermaid
 mindmap
