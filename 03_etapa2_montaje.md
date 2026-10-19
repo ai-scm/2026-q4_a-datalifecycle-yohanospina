@@ -4,7 +4,7 @@ Este documento profundiza en la segunda etapa del ciclo de vida de los datos: el
 
 ---
 
-## Mapa Mental (Mermaid)
+## Mapa Mental
 
 ```mermaid
 mindmap
