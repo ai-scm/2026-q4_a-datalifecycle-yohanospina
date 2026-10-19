@@ -4,7 +4,7 @@ Este documento aborda en profundidad la primera etapa del ciclo de vida de los d
 
 ---
 
-## Mapa Mental (Mermaid)
+## Mapa Mental
 
 ```mermaid
 mindmap
