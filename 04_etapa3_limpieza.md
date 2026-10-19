@@ -4,7 +4,7 @@ Este documento analiza la tercera etapa del ciclo de vida de los datos: **limpie
 
 ---
 
-## Mapa Mental (Mermaid)
+## Mapa Mental
 
 ```mermaid
 mindmap
